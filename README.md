@@ -1,6 +1,6 @@
 # beginner-patterns
-python basics
-It contains the first pattern programs i wrote when i first started learning python.
+This repository contains the first pattern programs I wrote while I started learning python.
 
-##Patterns##
--
+# Patterns
+- star square
+- 
