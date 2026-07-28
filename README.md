@@ -1,5 +1,5 @@
 # beginner-patterns
-This repository contains the first pattern programs I wrote while I started learning python.
+This repository contains the first pattern programs I wrote while learning Python.
 
 # Patterns
 - star square
