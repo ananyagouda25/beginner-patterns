@@ -1,4 +1,4 @@
-## Program: Hollow square
+# Program: Hollow square
 num = int(input("Enter a number:"))
 if num==1:
     print("*")
