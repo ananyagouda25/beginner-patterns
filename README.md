@@ -12,4 +12,5 @@ This repository contains the first pattern programs I wrote while learning Pytho
 - hollow square
 - multiplication table
 - luhn's algorithm (only supports 14 and 16 digit card numbers)
-- 
+- palindrome
+- contact management system
